@@ -1,0 +1,12 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:hamed/hamed.github.io.git
+	branch = master
+[submodule "themes/mainroad"]
+	path = themes/mainroad
+	url = https://github.com/vimux/mainroad
+	branch = master
+[submodule "themes/mtl-pure"]
+	path = themes/mtl-pure
+	url = https://github.com/nrechn/mtl-pure
+	branch = master
