@@ -10,3 +10,12 @@
 	path = themes/mtl-pure
 	url = https://github.com/nrechn/mtl-pure
 	branch = master
+[submodule "themes/academic"]
+	path = themes/academic
+	url = https://github.com/gcushen/hugo-academic.git
+[submodule "themes/hugo-minimalist-theme"]
+	path = themes/hugo-minimalist-theme
+	url = https://github.com/digitalcraftsman/hugo-minimalist-theme.git
+[submodule "themes/blackburn"]
+	path = themes/blackburn
+	url = https://github.com/yoshiharuyamashita/blackburn.git
