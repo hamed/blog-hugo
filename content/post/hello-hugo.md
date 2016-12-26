@@ -4,7 +4,6 @@ title = "Hello Hugo!"
 draft = false
 tags = []
 categories = []
-
 +++
 
 In an on-line dynamic world, 
@@ -17,7 +16,9 @@ Let see if this old fashioned and distraction free method of writing get me back
 <!--more-->
 
 My old place was [blogspot](https://pnoq.blogspot.com), at that time, there were blogs and a google reader to read them all. 
-Then came facebook, twitter, google plus, linkedin and bunch of other things. 
-They destroyed my creativity. 
+Then came facebook, twitter, linkedin and bunch of other things and eventually google reader were downgraded to google plus (too me it was a downgrade.).
+They destroyed my creativity and desire to write.
 
-
+I am not going to abandon my old blog, twitter, facebook and etc. 
+Small things like "I went to bathroom" will go to twitter, 
+family and friends related materials will go to facebook but essays and interesting stuffs will be here.
