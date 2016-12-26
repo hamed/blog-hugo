@@ -7,9 +7,9 @@ copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true
 paginate = 10
 
-[indexes]
+[taxonomies]
   tag = "tags"
-  topic = "topics"
+  category = "categories" 
 
 [params]
   # Shown in the home page
@@ -75,6 +75,8 @@ linkedin = "english-link"
 title = "بازی با جعبه سیاه"
 author = "حامد سیدعلائی"
 copyright = "کلیه حقوق محفوظ است."
+brand = "جعبه سیاه"
+subtitle = "به مسئولیت خودم"
 
 weight = 2
 [Languages.fa.params]
