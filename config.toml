@@ -16,7 +16,7 @@ paginate = 10
   subtitle = "at my own risk!"
   brand = "BlackBox"
   googleAnalytics = "Your Google Analytics tracking ID"
-  disqus = "Your Disqus shortname"
+  disqus = "hamed-github-io"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "02 Jan 2006, 15:04"
