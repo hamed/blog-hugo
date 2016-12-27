@@ -17,6 +17,7 @@ We need to repeat the process over and over again to reinforce the good behavior
 It is simple but it is not easy. 
 Survival analysis might come handy. 
 <!--more-->
+
 During the training, LO pisses on different parts and objects of the house, 
 from mom’s favorite carpet to dad’s smart phone (False Negatives). 
 If we want to avoid that, 
