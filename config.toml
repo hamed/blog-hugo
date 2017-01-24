@@ -15,7 +15,7 @@ paginate = 10
   # Shown in the home page
   subtitle = "at my own risk!"
   brand = "BlackBox"
-  googleAnalytics = "Your Google Analytics tracking ID"
+  googleAnalytics = "UA-385494-12"
   disqus = "hamed-github-io"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
