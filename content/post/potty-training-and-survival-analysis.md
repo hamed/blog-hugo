@@ -50,3 +50,5 @@ After a series of observations, we come to this conclusion:
 
 Have a good potty training! But be aware that the parameters of your LO might be different from ours!
 
+*Originaly published on my [Linkedin](https://www.linkedin.com/pulse/potty-training-data-scientists-way-hamed-seyed-allaei) page.* 
+
