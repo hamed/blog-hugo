@@ -46,7 +46,7 @@ After a series of observations, we come to this conclusion:
 
 **First thing in the morning, put LO on his potty. In a couple of minutes, LO will fill both the potty and your cup of joy!**
 
-**Then, you are almost safe during next hour, at the end of first one hour, you give it a shot, then you will try half an hour later and a quarter later and then you don’t leave the until he pisses.**
+**Then, you are almost safe during next hour, at the end of first one hour, you give it a shot, then you will try half an hour later and a quarter later and then you leave LO on the potty until he pisses.**
 
 Have a good potty training! But be aware that the parameters of your LO might be different from ours!
 
