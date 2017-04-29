@@ -20,8 +20,11 @@ We have to predict the probability of being duplicate for any new pair of questi
 
 ## The most naive solution
 It is easy to get lost in the complexity of a model,
-so as a benchmark and an starting point 
-I use the simplest model of all and I guess the probability of duplicates only from the frequency of duplicates in the training set.
+so as a benchmark and an starting point,  
+I use the simplest model of all 
+and I guess the probability of duplicates only from the frequency of duplicates in the training set.
+The code is [here](https://www.kaggle.com/pinocchio/quora-question-pairs/naive/run/1116931).
 
-The log loss of this really simple solution is 0.55411, and it ranked 1727 out of 2168, it exceeds my expectations!
+Its log loss is 0.55411, and it ranks 1727 out of 2168, it exceeds my expectations!
+The best solution as of this writing is 0.12684 so I have a long way to go. 
 
