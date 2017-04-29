@@ -6,10 +6,6 @@
 	path = themes/mainroad
 	url = https://github.com/vimux/mainroad
 	branch = master
-[submodule "themes/mtl-pure"]
-	path = themes/mtl-pure
-	url = https://github.com/nrechn/mtl-pure
-	branch = master
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
