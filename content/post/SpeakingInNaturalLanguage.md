@@ -13,6 +13,7 @@ For a long time I wanted to learn Natural Language Processing, but I didn't have
 Now that there is a competition on Kaggle [Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs), 
 I want to seize the opportunity and learn it hands on. 
 While learning and practicing, I document everything here for others and for my future me!
+<!--more-->
 
 # Duplicate or no?
 The goal is to predict if a pair of questions are duplicate or not. 
