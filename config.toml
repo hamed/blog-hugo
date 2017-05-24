@@ -22,9 +22,9 @@ paginate = 10
   dateFormat = "02 Jan 2006, 15:04"
 
 [menu]
-  # Shown in the side menu.
+  # shown in the side menu.
   [[menu.main]]
-    name = "Home"
+    name = "home"
     pre = "<i class='fa fa-home fa-fw'></i>"
     weight = 0
     identifier = "home"
@@ -74,6 +74,39 @@ author = "Hamed Seyed-allaei"
 copyright = "&copy; 2016. All rights reserved."
 
 weight = 1
+
+  # shown in the side menu.
+  [[Languages.en.menu.main]]
+    name = "home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 0
+    identifier = "home"
+    url = "/"
+  [[Languages.en.menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 1
+    identifier = "post"
+    url = "/post/"
+  [[Languages.en.menu.main]]
+    name = "Categories"
+    pre = "<i class='fa fa-folder fa-fw'></i>"
+    weight = 2
+    identifier = "categories"
+    url = "/categories/"
+
+
+
+[[Languages.en.menu.main]]
+    name = "فارسی"
+    pre = "<i class='fa fa-language fa-fw'></i>"
+    weight = 3
+    identifier = "fa"
+    url = "/fa/"
+
+
+
+
 [Languages.en.params]
 linkedin = "english-link"
 
@@ -85,5 +118,42 @@ brand = "جعبه سیاه"
 subtitle = "به مسئولیت خودم"
 
 weight = 2
-[Languages.fa.params]
 
+[[Languages.fa.menu.main]]
+    name = "خانه"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 0
+    identifier = "home"
+    url = "/fa/"
+[[Languages.fa.menu.main]]
+    name = "مطالب"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 1
+    identifier = "post"
+    url = "/fa/post/"
+[[Languages.fa.menu.main]]
+    name = "موضوعات"
+    pre = "<i class='fa fa-folder fa-fw'></i>"
+    weight = 2
+    identifier = "categories"
+    url = "/fa/categories/"
+[[Languages.fa.menu.main]]
+    name = "in English"
+    pre = "<i class='fa fa-language fa-fw'></i>"
+    weight = 3
+    identifier = "en"
+    url = "/"
+
+#  [[menu.main]]
+#    name = "About"
+#    pre = "<i class='fa fa-user fa-fw'></i>"
+#    weight = 2
+#    identifier = "about"
+#    url = "/about/"
+#  [[menu.main]]
+#    name = "Contact"
+#    pre = "<i class='fa fa-phone fa-fw'></i>"
+#    weight = 3
+#    url = "/contact/"
+
+ 
