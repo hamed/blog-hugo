@@ -4,7 +4,7 @@ date = "2017-05-24T11:28:11+04:30"
 title = "باز شماری آرای شورای تهران"
 draft = false
 description = ""
-categories = []
+categories = ["سیاست"]
 
 +++
 در انتخابات شواری اسلامی شهر تهران، 
