@@ -58,10 +58,11 @@ paginate = 10
   # by entering your username or ID.
   twitter = "allaei"
   #facebook = "*"
-  #instagram = "*"
+  instagram = "hamed.allaei"
   github = "hamed"
   #stackoverflow = "*"
   linkedin = "allaei"
+  telegram = "hamed_allaei"
 
 DefaultContentLanguage = "en"
 
