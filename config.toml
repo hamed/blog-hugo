@@ -61,7 +61,7 @@ paginate = 10
   instagram = "hamed.allaei"
   github = "hamed"
   #stackoverflow = "*"
-  linkedin = "allaei"
+  #linkedin = "allaei"
   telegram = "hamed_allaei"
 
 DefaultContentLanguage = "en"
