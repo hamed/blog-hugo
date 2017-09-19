@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-<div class="header">
+<div class="header" lang={{ .Lang }} {{ if in "fa ar"  .Lang  }} dir=rtl {{ end }}>
   <h1>{{ .Title }}</h1>
   <h2>{{ .Site.Params.subtitle }}</h2>
 </div>

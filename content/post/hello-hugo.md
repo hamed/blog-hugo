@@ -5,6 +5,8 @@ draft = false
 tags = []
 categories = []
 +++
+![](https://raw.githubusercontent.com/gohugoio/hugoDocs/master/static/img/hugo-logo.png)
+
 
 In an on-line dynamic world, 
 I need an off-line static place of my own to work distraction free, 

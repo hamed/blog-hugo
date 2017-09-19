@@ -1,10 +1,10 @@
 {{ partial "header.html" . }}
 
-<div class="header">
+<div class="header" lang={{ .Lang }} {{ if in "fa ar"  .Lang  }} dir=rtl {{ end }}>
   <h1>{{ .Title }}</h1>
 </div>
 
-<div class="content">
+<div class="content" lang={{ .Lang }} {{ if in "fa ar"  .Lang  }} dir=rtl {{ end }}>
   {{ range .Data.Pages }}
     {{ .Render "summary"}}
   {{ end }}
