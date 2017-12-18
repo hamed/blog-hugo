@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+
+
+<div  lang={{ .Lang }} {{ if in "fa ar"  .Lang  }} dir=rtl {{ end }}>
+<div class="header">
+  <h1>{{ .Title }}</h1>
+  <h2>{{ .Description }}</h2>
+</div>
+<div class="content" align="justify">
+
+
+<div class="content">
+  {{ .Content }}
+</div>
+</div>
+{{ partial "footer.html" . }}
