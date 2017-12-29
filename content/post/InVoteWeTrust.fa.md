@@ -1,7 +1,7 @@
 +++
 title = "رأی ما، اعتماد ما"
 date = "2017-12-29T13:13:35+03:30"
-draft = true
+draft = false
 tags = []
 categories = ["نظریه بازی", "سیاست"]
 description = ""
